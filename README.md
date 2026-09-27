@@ -81,23 +81,29 @@
 
 <hr/>
 
-## 📊 GitHub Analytics
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<!-- Reliable Community Mirror for GitHub Stats & Top Languages -->
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=HussainAliAbdulAzizAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Github Stats"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HussainAliAbdulAzizAli&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HussainAliAbdulAzizAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussainAliAbdulAzizAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e90ff&text_color=ffffff&langs_count=8"/>
 
 <br/><br/>
 
-<!-- Stable Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HussainAliAbdulAzizAli&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAliAbdulAzizAli&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e90ff&ring=1e90ff&fire=ff6b35&currStreakLabel=1e90ff&sideLabels=aaaaaa&dates=aaaaaa"/>
 
 </div>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+## 📈 &nbsp;Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HussainAliAbdulAzizAli&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1e90ff&line=00d4ff&point=ffffff" />
+</p>
+
 
 ## 🌐 Connect With Me
 
