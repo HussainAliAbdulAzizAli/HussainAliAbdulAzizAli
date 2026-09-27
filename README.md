@@ -28,13 +28,13 @@
 
 <img align="right" width="310" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF"/>
 
-&nbsp;🧾 &nbsp;**Full-Stack Developer** — built **Construction E-Invoice System**, a Flask/MySQL platform with OCR scanning & automated PDF invoicing, as my senior capstone<br>
-&nbsp;🎓 &nbsp;**B.Sc. Information Systems** @ University of Bahrain<br>
-&nbsp;🏢 &nbsp;Completed a technical training placement @ **Nass Group Corporation** — HR app design & a vehicle auction website<br>
-&nbsp;🔐 &nbsp;IBM **Cybersecurity Fundamentals Specialization** (Coursera) — networking, encryption, security architecture<br>
-&nbsp;🛠️ &nbsp;Comfortable across **Python/Flask** backends, **MySQL**, front-end (HTML/CSS/JS) & real PC hardware builds<br>
-&nbsp;⚡ &nbsp;Focused on **clean code, real-world products & shipping things that get used**<br>
-&nbsp;📚 &nbsp;Always learning — currently going deeper on **backend architecture & cloud fundamentals**<br>
+&nbsp;🧾 &nbsp;**Full-Stack Developer** — built **Construction E-Invoice System**, a Flask/MySQL platform with OCR scanning & automated PDF invoicing, as my senior capstone<br/>
+&nbsp;🎓 &nbsp;**B.Sc. Information Systems** @ University of Bahrain<br/>
+&nbsp;🏢 &nbsp;Completed a technical training placement @ **Nass Group Corporation** — HR app design & a vehicle auction website<br/>
+&nbsp;🔐 &nbsp;IBM **Cybersecurity Fundamentals Specialization** (Coursera) — networking, encryption, security architecture<br/>
+&nbsp;🛠️ &nbsp;Comfortable across **Python/Flask** backends, **MySQL**, front-end (HTML/CSS/JS) & real PC hardware builds<br/>
+&nbsp;⚡ &nbsp;Focused on **clean code, real-world products & shipping things that get used**<br/>
+&nbsp;📚 &nbsp;Always learning — currently going deeper on **backend architecture & cloud fundamentals**
 
 <br clear="both"/>
 
