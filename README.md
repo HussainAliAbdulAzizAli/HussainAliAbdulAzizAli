@@ -126,6 +126,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 📈 &nbsp;Contribution Graph
+
+<p align="center">
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=HussainAliAbdulAzizAli&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1f4e79&line=00d4ff&point=ffffff" />
+</p>
+
 ## 🌐 &nbsp;Connect With Me
 
 <div align="center">
