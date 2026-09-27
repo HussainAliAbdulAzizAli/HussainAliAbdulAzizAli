@@ -85,14 +85,14 @@
 
 <div align="center">
 
-<!-- Reliable Dedicated Azure Mirror for Github Stats & Languages -->
-<img height="165" src="https://github-readme-stats.azurewebsites.net/api?username=HussainAliAbdulAzizAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Github Stats"/>
+<!-- Reliable Community Mirror for GitHub Stats & Top Languages -->
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=HussainAliAbdulAzizAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Github Stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=HussainAliAbdulAzizAli&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HussainAliAbdulAzizAli&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Stable Activity Graph (100% SVG Uptime) -->
+<!-- Stable Activity Graph -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HussainAliAbdulAzizAli&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
 </div>
