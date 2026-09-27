@@ -1,9 +1,11 @@
 <div align="center">
 
+<!-- Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=55&lines=Full+Stack+Developer+%26+IT+Specialist;Python+%7C+Flask+%7C+MySQL;OCR+%7C+PDF+Automation+%7C+Dashboards;Clean+Code+%7C+Real+World+Products)](https://git.io/typing-svg)
 
 <br/>
 
+<!-- Status Badges -->
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F4E79?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-Specialist-1F4E79?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hardware-Technician-1F4E79?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -11,6 +13,7 @@
 
 <br/><br/>
 
+<!-- Live Profile Metrics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HussainAliAbdulAzizAli&label=Profile%20Views&color=1f4e79&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/HussainAliAbdulAzizAli?label=Followers&style=flat-square&color=1f4e79" alt="Followers"/>
@@ -82,13 +85,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HussainAliAbdulAzizAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Github Stats"/>
+<!-- Reliable Dedicated Azure Mirror for Github Stats & Languages -->
+<img height="165" src="https://github-readme-stats.azurewebsites.net/api?username=HussainAliAbdulAzizAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Github Stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussainAliAbdulAzizAli&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=HussainAliAbdulAzizAli&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAliAbdulAzizAli&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+<!-- Stable Activity Graph (100% SVG Uptime) -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HussainAliAbdulAzizAli&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
 </div>
 
