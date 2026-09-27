@@ -102,10 +102,6 @@
 |:---|
 | Full-stack web app for the construction industry. **Flask + MySQL** backend, **OCR**-based invoice scanning, automated **PDF** invoice generation, secure email payment workflow, and live financial dashboards (balance sheet, P&L, cash flow, analytics). _Senior Graduation Project · University of Bahrain._ |
 
-| 🚗 [**Vehicle Auction Website**](https://github.com/HussainAliAbdulAzizAli/vehicle-auction-website) — Front-End Design |
-|:---|
-| Front-end design and responsive layout for a pre-owned vehicle auction platform, built during a technical training placement at Nass Group Corporation — page structure, navigation flow, and UI design. |
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
